@@ -1,0 +1,4 @@
+Python is fun
+Python is useful
+Life is short, use Python
+This is a life advice.
